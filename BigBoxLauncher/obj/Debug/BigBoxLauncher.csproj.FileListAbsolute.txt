@@ -1,0 +1,7 @@
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\bin\Debug\BigBoxLauncher.exe.config
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\bin\Debug\BigBoxLauncher.exe
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\bin\Debug\BigBoxLauncher.pdb
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\obj\Debug\BigBoxLauncher.csprojAssemblyReference.cache
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\obj\Debug\BigBoxLauncher.csproj.CoreCompileInputs.cache
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\obj\Debug\BigBoxLauncher.exe
+C:\Users\mc42530\source\repos\BigBoxLauncher\BigBoxLauncher\obj\Debug\BigBoxLauncher.pdb
